@@ -5,4 +5,4 @@ sudo: true
 script:
     - pip install pipenv
     - pipenv install --ignore-pipfile
-    - pipenv run pytes
+    - pipenv run pytest
