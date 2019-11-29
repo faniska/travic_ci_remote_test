@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/faniska/travic_ci_remote_test.svg?branch=master)](https://travis-ci.org/faniska/travic_ci_remote_test)
